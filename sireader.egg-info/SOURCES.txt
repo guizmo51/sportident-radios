@@ -1,0 +1,5 @@
+sireader.egg-info/PKG-INFO
+sireader.egg-info/SOURCES.txt
+sireader.egg-info/dependency_links.txt
+sireader.egg-info/requires.txt
+sireader.egg-info/top_level.txt
